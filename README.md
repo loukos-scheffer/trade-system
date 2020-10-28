@@ -1,3 +1,7 @@
+# CSC207 Group Project
+
+This project was completed for CSC207H1 during the Summer 2020 term by Murray Smith, Melody Yang, Riya Razdan, Louis Scheffer V, Callan Murphy, Tingyu Liang, Jinyu Liu, and Tian Yue Dong.
+
 # The Trade System
 
 The Trade System is a program that allows users to view and trade items with each other
